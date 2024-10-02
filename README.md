@@ -17,11 +17,11 @@ This is a simple banking system built in **Python** using **Object-Oriented Prog
 - **`gui.py`**: Handles the Tkinter GUI for interacting with the banking system.
 - **`info.json`**: The file where account data is stored.
 - **`controller.py`**: The file where the bank logic is being developed.
-- - **`main.py`**: The file where you can run the whole program.
+- **`main.py`**: The file where you can run the whole program.
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.8**
 - **Tkinter**: For the user interface.
 - **JSON**: For storing account information.
 - **Object-Oriented Programming (OOP)**: For structuring the banking system.
